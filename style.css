@@ -1,0 +1,8 @@
+div > body{
+    align-items: center;
+    justify-content: center;
+    align-self: c;
+}
+body {
+    padding: 50px;
+}
